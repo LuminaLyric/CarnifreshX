@@ -24,3 +24,5 @@ Tailwind CSS
 Mobile Navigation Menu
 Layout Structuring
 UI Development
+
+check it out here---->https://luminalyric.github.io/CarnifreshX/
